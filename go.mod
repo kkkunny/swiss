@@ -1,9 +1,9 @@
-module github.com/dolthub/swiss
+module github.com/kkkunny/swiss
 
 go 1.18
 
 require (
-	github.com/dolthub/maphash v0.1.0
+	github.com/kkkunny/maphash v0.0.0-20240930153939-d983313dfa42
 	github.com/stretchr/testify v1.8.1
 )
 

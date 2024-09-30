@@ -15,7 +15,7 @@
 package swiss
 
 import (
-	"github.com/dolthub/maphash"
+	"github.com/kkkunny/maphash"
 )
 
 const (
